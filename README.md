@@ -1,1 +1,1 @@
-# schoolz-v1
+Tugas 1 : sekolah
