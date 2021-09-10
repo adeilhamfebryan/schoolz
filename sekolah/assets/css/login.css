@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	user-select: none;
+	background-image: url(../image/banner.jpg);
+	background-size: cover;
+}
+
+.login-form{
+	width: 30%;
+	margin: 15% auto;
+	text-align: center;
+}
+.login-form p{
+	color: white;
+	font-family: cursive;
+}
+.login-form form{
+	width: 95%;
+	margin: 0 auto;
+	border-radius: 10px;
+	border: 1px solid red;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.login-form input{
+	color: white;
+	font-family: cursive;
+	background-color: transparent;
+	display: block;
+	border: none;
+	border-bottom: 1px solid red;
+	border-radius: 2.5px;
+	width: 80%;
+	margin: 10px auto 20px auto;
+	font-size: 16pt;
+}
+.login-form button{
+	background-color: transparent;
+	border: none;
+	background-color: red;
+	margin: 10px auto;
+	display: block;
+	font-size: 16pt;
+	border-radius: 5px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: 600;
+	padding: 2px 15px;
+}
+.login-form button:hover{
+	background-color: green;
+	color: pink;
+}
